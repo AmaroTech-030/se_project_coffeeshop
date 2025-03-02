@@ -28,7 +28,7 @@
 }
 
 .form__button {
-  border-radius: none;
+  border: none;
   background-color: #1878dc;
   padding: 20px 0;
   width: 100%;
