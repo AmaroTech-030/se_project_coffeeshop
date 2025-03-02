@@ -14,7 +14,7 @@
   text-decoration: none;
   font-style: normal;
   color: black;
-  transition: opacity 3s ease 1s;
+  transition: opacity 0.5 ease 0.3;
 }
 
 .nav__link:hover {
